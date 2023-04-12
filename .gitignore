@@ -1,7 +1,8 @@
-!data_cospar
-!fig_cospar
-!LARRY_data
-!LARRY_figure
-!lung_data_paper
-!lung_figure_paper
-!test
+data_cospar
+fig_cospar
+LARRY_data
+LARRY_figure
+lung_data_paper
+lung_figure_paper
+test
+.ipynb_checkpoints
