@@ -4,5 +4,8 @@ LARRY_data
 LARRY_figure
 lung_data_paper
 lung_figure_paper
-test
-.ipynb_checkpoints
+test*
+.ipynb_checkpoint*
+Cell*
+.DS_*
+__*
