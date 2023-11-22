@@ -9,3 +9,6 @@ test*
 Cell*
 .DS_*
 __*
+data
+figure
+figures
